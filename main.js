@@ -48,20 +48,3 @@ console.log(`I will be either ${myFirstAge} or ${mySecondAge}  in ${futherYear} 
 
 
 
-
-
-// function greeting() {
-//   alert("welcome");
-//     console.log('hello world');
-//   }
-//   greeting();
-//   let x = 4;
-//   x+=4;
-//   console.log(x);
-//    let address = "Egoz 7 Qiryat ono";
-//    console.log(address);
-//    let myname="hagar";
-//    let mom="mommy";
-//    console.log(`${myname}love to visit ${mom} every weekend in her house. her address is ${address}`);
-//    address="bialik 20"
-//    console.log(`${myname}love to visit ${mom} every weekend in her house. her address is ${address}`);;
